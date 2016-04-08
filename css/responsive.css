@@ -6,6 +6,10 @@
 /* Medium Devices, Desktops */
 @media only screen and (max-width : 992px) {
 
+  /* Footer */
+  .footer > div {
+    overflow: hidden;
+  }
   
 }
 
