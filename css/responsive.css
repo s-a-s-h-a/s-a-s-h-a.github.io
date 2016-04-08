@@ -1,0 +1,85 @@
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+  
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+  /* Genetal style */
+  iframe {
+    margin: 30px auto 0 auto;
+  }
+
+  /* Typography */
+  .h-content {
+    font-size: 25px;
+    text-align: center;
+  }
+  .title-border-bottom {
+    font-size: 25px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+  }
+  .red-button {
+    float: none;
+  }
+  .title-border-center {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  .offer_h {
+    font-size: 25px;
+    padding: 20px 0;
+  }
+  .offer_h:after {
+    margin-top: 35px;
+  }
+  .information_h {
+    font-size: 25px;
+  }
+  .social {
+    float: none;
+  }
+
+  /* Section */
+  .help {
+    text-align: center;
+  }
+  .offer {
+    padding: 30px 0;
+  }
+  .information {
+    padding: 30px 0;
+  }
+  footer {
+    text-align: center;
+  }
+  
+  /* Form */
+  .contacts-form [type="submit"] {
+    width: 100%;
+  }
+  
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+  
+  /* Genetal style */
+  body {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}  
