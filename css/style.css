@@ -1,14 +1,13 @@
 /* 
-Template Name: GetLeads
-Theme URL: http://www.themedept.com/demo/getleads/
-Description: Landing Page Pack with Page Builder    
-Author: Themedept  
-Author URL: http://www.themedept.com
+Template Name: Worldstart
+Theme URL:
+Description:   
+Author: sasha77 
+Author URL: 
 Version: 1.0
-Tags: Landing Page, Multipurpose Landing page, Html5, Css, Bootstrap, Javascript, Startup Landing page, Agency Landing page, Corporate Landing page, Business Landing page, Marketing Landing page, 
-App Landing page, WebApp Landing page, Construction Landing page, E-learning Landing page, E-book Landing page, Event Landing page, Conference Landing page, Restaurant Landing page, Real Estate Landing page, 
-Hotel Landing page, Software Landing page, Medical Landing page, Hosting Landing page, Gym Landing page, Wedding Landing page, Travel Landing Page, Yoga Landing Page
+Tags: crowdfund, bootstrap, landing page, one page, responsive, portfolio, startup
 */
+
 
 
 
@@ -465,7 +464,7 @@ a:focus   {
 -----------------------------------------*/
 .information{
 	padding: 60px 0;
-	background-image: url(image2.jpg);
+	background-image: url(../img/s-3.jpg);
 }
 
 .information_h {
@@ -570,7 +569,7 @@ input:focus ~ .highlight {
 -----------------------------------------*/
 .offer{
 	padding: 60px 0;
-	background-image: url(image2.jpg);
+	background-image: url(../img/s-3.jpg);
 }
 
 #jarallax-container-1 {
